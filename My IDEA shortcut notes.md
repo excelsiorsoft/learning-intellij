@@ -1,3 +1,5 @@
+####pandoc -s "My IDEA shortcut notes.odt" -t markdown -o "My IDEA shortcut notes.md"
+
 Alt + 1 → Close Project Window
 
 File \| Project Structure
