@@ -1,4 +1,15 @@
+## These are various commands gleaned while listening to the following classes
+
+- [Getting Started with IntelliJ CE
+by David Starr]([https://app.pluralsight.com/library/courses/intellij-ce-getting-started/table-of-contents](https://app.pluralsight.com/library/courses/intellij-ce-getting-started/table-of-contents))  on Pluralsight
+- [IntelliJ IDEA Community Edition Essential Training by David Gassner]([https://www.lynda.com/Java-tutorials/IntelliJ-IDEA-Community-Edition-Essential-Training/486759-2.html](https://www.lynda.com/Java-tutorials/IntelliJ-IDEA-Community-Edition-Essential-Training/486759-2.html)) on Lynda
+
+
+
+To convert from .odt file, the following command was used: 
+
 ####pandoc -s "My IDEA shortcut notes.odt" -t markdown -o "My IDEA shortcut notes.md"
+---
 
 Alt + 1 → Close Project Window
 
